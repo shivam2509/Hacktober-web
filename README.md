@@ -1,2 +1,2 @@
 # website
-Website containing a keylogger script for beginners!
+Website containing hacking scripts for script kiddies!
